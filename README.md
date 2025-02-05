@@ -34,22 +34,8 @@ I'm a developer currently studying at 42 School, where I am honing my skills in 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renzmen&theme=radical&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Profile Views](https://komarev.com/ghpvc/?username=nicoterabyte&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=nicoterabyte&color=yellow)
 
-**🐱 My GitHub Data** 
 
-> 📦 39.9 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 23 Public Repositories 
- > 
-> 🔑 6 Private Repositories 
- > 
-
- Last Updated on 05/02/2025 01:08:10 UTC
 <!--END_SECTION:waka-->
